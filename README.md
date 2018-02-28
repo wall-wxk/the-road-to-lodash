@@ -9,6 +9,8 @@
 
 ## Article
 
+1. [模块化的基础——IIFE](https://github.com/wall-wxk/the-road-to-lodash/issues/1)
+
 ## License
 MIT
 
